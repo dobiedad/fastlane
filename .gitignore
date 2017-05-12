@@ -1,0 +1,11 @@
+fastlane/screenshots
+*.zip
+*.mobileprovision
+*.cer
+*.certSigningRequest
+*.p12
+fastlane/report.xml
+ios/main.jsbundle
+AppFile
+node_modules
+*.log
